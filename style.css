@@ -1,3 +1,9 @@
 body {
-    background: blue;
+    font-family: 'Helvetica';
+    font-size: 22px;
+    background: seashell;
+    background-color: #f7e7ce;
+    opacity: 0.9;
+    text-align: center;
+    margin: 0;
   }
